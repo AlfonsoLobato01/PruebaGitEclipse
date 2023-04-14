@@ -5,3 +5,6 @@ cambio rama 2
 
 
 cambio fastforward
+
+para ff2
+
