@@ -2,3 +2,6 @@ Aqui añado cambios
 
 
 cambio rama 2
+
+
+cambio fastforward
